@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "antd": "^5.5.0",
+    "date-fns": "^2.30.0",
+    "date-range": "^0.0.2",
+    "moment": "^2.29.4",
+    "react-datepicker": "^4.11.0",
+    "react-multi-date-picker": "^4.0.0"
+  }
+}
